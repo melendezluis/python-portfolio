@@ -7,7 +7,7 @@ Demostrar habilidades prácticas en:
 - Procesos ETL completos
 - Generación de reportes financieros profesionales en Excel
 - Conexión a bases de datos
-- Creación de *PIs REST con FastAPI
+- Creación de APIs REST con FastAPI
 
 ## Tecnologías Utilizadas
 - Python 3.13
